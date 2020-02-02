@@ -1,0 +1,2 @@
+ @Html.TextAreaFor(model => model.Notes, new { rows = "5", cols = "80" })
+ 
